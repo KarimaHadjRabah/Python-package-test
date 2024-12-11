@@ -12,11 +12,11 @@ except FileNotFoundError:
 
 # Metadata
 setup(
-  name = "Type here the name of your package",
+  name = "karimapy",
   version = "0.0.0.9000",
-  author = "Type here your name",
+  author = "Karima",
   author_email = "Type here your email",
-  description = "Describe here your package in one sentence",
+  description = "It's just a test, nothing special about it",
   license = "Type here what license your package has",
   packages = find_packages(),
   install_requires = requirements
