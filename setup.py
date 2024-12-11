@@ -17,7 +17,7 @@ setup(
   author = "Karima",
   author_email = "Type here your email",
   description = "It's just a test, nothing special about it",
-  license = "Type here what license your package has",
+  license = "Apache License 2.0",
   packages = find_packages(),
   install_requires = requirements
 )
